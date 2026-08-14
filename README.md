@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 Sobre mí · About me
+##  Sobre mí · About me
 
 <table>
 <tr>
@@ -58,10 +58,12 @@
 
 ### 🐦 Quis-k-luz
 
+> 🔒 = repositorio privado — código propio, pero contenido restringido por confidencialidad de datos de investigación. *🔒 = private repo — code is mine, but access is restricted due to research-data confidentiality.*
+
 | Repo | Descripción · Description |
 |---|---|
-| [**quizkluz_main_page**](https://github.com/cristianeden/quizkluz_main_page) | Dashboard y sitio principal del sistema — reportes de BirdNET en vivo, mapa de calidad del aire. *Main dashboard/site — live BirdNET reports, air-quality map.* |
-| [**quiskluz_firmware_backend_frontend**](https://github.com/cristianeden/quiskluz_firmware_backend_frontend) | Firmware MicroPython (M5Stack), backend PHP/Flask + MySQL, frontend — pipeline completo. *MicroPython firmware, PHP/Flask + MySQL backend, frontend — full pipeline.* |
+| **quizkluz_main_page** 🔒 | Dashboard y sitio principal del sistema — reportes de BirdNET en vivo, mapa de calidad del aire. *Main dashboard/site — live BirdNET reports, air-quality map.* |
+| **quiskluz_firmware_backend_frontend** 🔒 | Firmware MicroPython (M5Stack), backend PHP/Flask + MySQL, frontend — pipeline completo. *MicroPython firmware, PHP/Flask + MySQL backend, frontend — full pipeline.* |
 | [**db_muestras_bioacusticas**](https://github.com/cristianeden/db_muestras_bioacusticas) | Base de muestras de audio (xeno-canto, iNaturalist, campo) para validar modelos de identificación. *Audio sample database validating species-ID models.* |
 
 ### 💻 Desarrollo · Development
