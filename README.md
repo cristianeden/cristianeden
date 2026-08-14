@@ -70,10 +70,8 @@
 
 | Proyecto | Descripción · Description |
 |---|---|
-| [portafolio-personal_cems](https://github.com/cristianeden/portafolio-personal_cems) | Portafolio personal — Next.js 15, Tailwind, Framer Motion |
 | [digital_desktop_prescription](https://github.com/cristianeden/digital_desktop_prescription) | App de escritorio para recetas médicas — Tauri + React + Rust |
 | [color-harmony-tool](https://github.com/cristianeden/color-harmony-tool) | Generador de paletas de color (OKLCH) para UI/UX — Next.js |
-| [dashboard-datos-abiertos](https://github.com/cristianeden/dashboard-datos-abiertos) | Dashboard interactivo consumiendo APIs públicas de datos abiertos |
 | [skateshop_store_landingpage](https://github.com/cristianeden/skateshop_store_landingpage) | Landing page — Visual Attack SkateShop, Torreón |
 | [nazas_vivo_landpage](https://github.com/cristianeden/nazas_vivo_landpage) | Landing page del proyecto Nazas Vivo |
 
