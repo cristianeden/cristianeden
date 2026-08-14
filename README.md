@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Cristian+Eden;PhD+Candidate+%E2%80%94+Electrical+Engineering;Bioacoustics+%2B+Environmental+IoT+Researcher;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=750&lines=Cristian+Eden;PhD+Candidate+%C2%B7+Electrical+Engineering;Bioacoustics+%26+Environmental+IoT;Full-Stack+Developer" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/ranpodesk.com-2EA3F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ranpodesk.com)
 [![GitHub followers](https://img.shields.io/github/followers/cristianeden?style=for-the-badge&color=2EA3F2&logo=github&logoColor=white&label=Followers)](https://github.com/cristianeden)
@@ -76,17 +76,6 @@
 | [dashboard-datos-abiertos](https://github.com/cristianeden/dashboard-datos-abiertos) | Dashboard interactivo consumiendo APIs públicas de datos abiertos |
 | [skateshop_store_landingpage](https://github.com/cristianeden/skateshop_store_landingpage) | Landing page — Visual Attack SkateShop, Torreón |
 | [nazas_vivo_landpage](https://github.com/cristianeden/nazas_vivo_landpage) | Landing page del proyecto Nazas Vivo |
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cristianeden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeden&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=cristianeden&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 📫 Contacto · Contact
 
